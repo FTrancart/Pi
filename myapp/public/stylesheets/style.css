@@ -19,7 +19,7 @@
   color: #1abc9c !important;
 }
 .active>a {
-color: #1abc9c !important;;
+  color: #1abc9c !important;;
 }
 
 .names{
@@ -83,13 +83,13 @@ h2 {
 table {
   border-collapse:collapse;
   width:90%;
-  }
+}
 th, td {
-border:1px solid #f8f8f8;
-width:10%;
+  border:1px solid #f8f8f8;
+  width:10%;
 }
 td {
-text-align:center;
+  text-align:center;
 }
 caption {
   font-weight:bold
@@ -203,14 +203,14 @@ caption {
   font-size : 22px;
 }
 
-#output{
-  font-size:10px;
+input{
+}
+::placeholder {
+  font-size: 15px;
 }
 
-#text{
-  font-size:10px;
-}
-
-#history{
-  font-size:10px;
+.btn-primary{
+  color:#fff;
+  background-color:#007bff;
+  border-color:#007bff;
 }
